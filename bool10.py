@@ -7,5 +7,5 @@ def main(a):
         bool
     """
     # Write your code here
-    return sqrt(a)==a and int(a)==a
+    return sqrt(a)==a and a>0
 print(main(7))
