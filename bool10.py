@@ -8,5 +8,5 @@ def main(a):
     """
     # Write your code here
     b = sqrt(a)
-    return int(b**2) == a
+    return int(b)**2 == a
 print(main(25))
