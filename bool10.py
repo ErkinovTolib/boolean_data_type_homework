@@ -7,5 +7,5 @@ def main(a):
         bool
     """
     # Write your code here
-    return sqrt(a) ** 2 ==a
+    return int(sqrt(a) ** 2) ==a
 print(main(25))
